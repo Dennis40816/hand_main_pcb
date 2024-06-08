@@ -1,0 +1,12 @@
+Board Information Report
+Filename     : G:\My Drive\Graduate\Project\Haptic Assistance Navigation Device\PCB Design\For JLC\final\main\hand_main_v1_final_version\hand_main_board.PcbDoc
+Date         : Wed 24 5 29
+Time         : PM 02:11:51
+Time Elapsed : 00:00:00
+
+Routing Information
+    Routing completion, 100.00%
+    Connections, 595
+    Connections routed, 595
+    Connections remaining, 0
+count : 4
