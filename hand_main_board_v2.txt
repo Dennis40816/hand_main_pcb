@@ -1,0 +1,12 @@
+Board Information Report
+Filename     : G:\My Drive\Graduate\Project\Haptic Assistance Navigation Device\PCB Design\HAND_V2\hand_main_v2\hand_main_board_v2.PcbDoc
+Date         : Sun 24 6 9
+Time         : PM 04:32:11
+Time Elapsed : 00:00:00
+
+Routing Information
+    Routing completion, 100.00%
+    Connections, 597
+    Connections routed, 597
+    Connections remaining, 0
+count : 4
